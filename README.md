@@ -1,5 +1,5 @@
 # Getting-and-Cleaning-Data-Course-Project
-Submission for getting and cleaning data project
+
 Introduction
 
 This is my submission for Peer Graded Assignment: Getting and Cleaning Data Course Project.
